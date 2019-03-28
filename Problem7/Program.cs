@@ -29,8 +29,6 @@ namespace Problem7 {
 
                 i += 1;
             }
-
-            
         }
     }
 }
